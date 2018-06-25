@@ -1,0 +1,55 @@
+{
+  "basics":{
+    "name":"pallvi",
+    "email":"pallavi.battu2002@gmail.com",
+    "moblie":"+91-9550724074"
+  },
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"PSCMR",
+      "data":["2015-19","79%"]
+    },
+    {
+
+        "degree":"Intermediate",
+        "institute":"S.V.L Kranthi junior college",
+        "data":["2013-15","94%"]
+    },
+    {
+
+        "degree":"SSC",
+        "institute":"S.K.R.M.G.H School",
+        "data":["2013","9.5"]
+    }
+  ],
+  "achievements":[
+    {
+      "name":"certification in <q>IIT bombay</q> <b>C & C++</b>"
+    },
+    {
+      "name":"Got <strong>1<sup>st</sup>prize</strong> for <q> PPT Presentation</q>"
+     }
+  ],
+  "technicalskills":[
+    {
+      "name":"programming Language:",
+      "data":["C","Java","python","c++"]
+    },
+    {
+      "name":"database:",
+      "data":["MySQL","Oracle"]
+    },
+    {
+      "name":"Web Technologies:",
+      "data":["HTML","CSS","JavaScript"]
+    },
+    {
+      "name":"Libraries and Frameworks:",
+      "data":["jQuery","codeigniter"]
+    }
+]
+}
